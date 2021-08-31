@@ -1,5 +1,5 @@
 ---
-title: 6 Tips to Achieve Work Life Balance
+title: On est avant tout des gens cool
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
