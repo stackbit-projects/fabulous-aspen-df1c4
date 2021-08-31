@@ -2,7 +2,7 @@
 title: Placeholder
 sections:
   - type: hero_section
-    title: 'On ne sait pas vraiment à quoi ça sert,'
+    title: 'On sait pas à quoi ça sert,'
     subtitle: mais vous allez nous l'acheter !
     content: >-
       App Land combines your work and home calendars with all your task
