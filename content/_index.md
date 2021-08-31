@@ -12,7 +12,7 @@ sections:
       - label: Commander
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: En savoir plus
         url: /pricing
         style: secondary
     image: images/hero.svg
