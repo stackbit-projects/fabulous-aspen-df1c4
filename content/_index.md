@@ -12,6 +12,7 @@ sections:
       - label: Commander
         url: /pricing
         style: primary
+        has_icon: true
       - label: En savoir plus
         url: /pricing
         style: secondary
