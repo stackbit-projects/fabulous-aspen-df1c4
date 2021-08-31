@@ -3,7 +3,7 @@ title: On est avant tout des gens cool
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
-date: '2020-06-02'
+date: '2020-06-18'
 categories:
   - data/categories/tutorials.json
 tags:
