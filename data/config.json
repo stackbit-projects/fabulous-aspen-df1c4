@@ -1,7 +1,7 @@
 {
     "title": "Titre custom",
     "layout_type": "full-width",
-    "style": "minimal",
+    "style": "bold",
     "palette": "blue",
     "mode": "light",
     "base_font": "sans-serif",
