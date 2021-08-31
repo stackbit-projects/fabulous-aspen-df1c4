@@ -14,7 +14,7 @@ sections:
         style: primary
       - label: En savoir plus
         url: /pricing
-        style: primary
+        style: secondary
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: left
