@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Commander
         url: /pricing
-        style: primary
+        style: secondary
       - label: En savoir plus
         url: /pricing
         style: secondary
