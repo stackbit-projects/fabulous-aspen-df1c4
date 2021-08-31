@@ -14,6 +14,7 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
+        icon_position: center
       - label: En savoir plus
         url: /pricing
         style: secondary
