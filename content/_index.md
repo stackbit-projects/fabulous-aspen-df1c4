@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Maison
 sections:
   - type: hero_section
     title: 'On sait pas à quoi ça sert vraiment,'
