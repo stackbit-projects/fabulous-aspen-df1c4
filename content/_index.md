@@ -13,6 +13,7 @@ sections:
         url: /pricing
         style: primary
         has_icon: true
+        icon: arrow-right
       - label: En savoir plus
         url: /pricing
         style: secondary
