@@ -2,7 +2,7 @@
 title: Maison
 sections:
   - type: hero_section
-    title: 'On sait pas encore à quoi ça sert,'
+    title: 'On sait pas vraiment à quoi ça sert,'
     subtitle: mais vous allez nous l'acheter !
     content: >-
       App Land combines your work and home calendars with all your task
