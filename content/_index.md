@@ -1,5 +1,5 @@
 ---
-title: Maison
+title: Placeholder
 sections:
   - type: hero_section
     title: 'On sait pas vraiment à quoi ça sert,'
